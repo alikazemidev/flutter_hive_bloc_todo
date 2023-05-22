@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:hive/hive.dart';
 import 'package:hive_block_note_app/todo_feature/logic/bloc/todo_bloc.dart';
 import 'package:hive_block_note_app/todo_feature/models/todo_model.dart';
 import 'package:hive_block_note_app/todo_feature/screens/show_todo_screen.dart';
